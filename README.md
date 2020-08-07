@@ -9,7 +9,8 @@ I am final year undergrad passionate about data science, machine learning and co
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote&layout=compact" />
 </a>
 
-## Connect with me :smile:
+
+# Connect with me :smile:
 
 <a href="mailto:ca10@iitbbs.ac.in">
   <img align="left" alt="Chanakya Ekbote Gmail" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
