@@ -8,7 +8,6 @@ I am final year undergrad passionate about data science, machine learning and co
 
 <a href="https://www.linkedin.com/in/chanakyaekbote/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ca10@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<hr>
 
 
 ## GitHub Stats
