@@ -15,9 +15,12 @@ I am final year undergrad passionate about data science, machine learning and co
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true" />
 </a>
+
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote" />
 </a>
+-->
 
 <!--
 **cekbote/cekbote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
