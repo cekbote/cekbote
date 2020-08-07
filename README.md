@@ -7,10 +7,9 @@ I am final year undergrad passionate about data science, machine learning and co
 
 ### Connect with me :smile:
 
-<a href="ca10@iitbbs.ac.in">
+<a href="mailto:ca10@iitbbs.ac.in">
   <img align="left" alt="Chanakya Ekbote Gmail" width="21px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
 </a>
-ca
 <a href="https://www.linkedin.com/in/chanakyaekbote/">
   <img align="left" alt="Chanakya Ekbote Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
