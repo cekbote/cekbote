@@ -6,11 +6,9 @@ I am final year undergrad passionate about data science, machine learning and co
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote&layout=compact" />
 </a>
-<br>
 
-weewwew
 
 # Connect with me :smile:
 
