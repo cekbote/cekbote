@@ -4,18 +4,22 @@ I am final year undergrad passionate about data science, machine learning and co
 
 
 
-# Connect with me :smile:
+## Connect with me :smile:
 
-Gmail: ca10@iitbbs.ac.in
+<a href="https://www.linkedin.com/in/imickovski/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ivan_mickovski@hotmail.com?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
+
+Gmail: ca10@iitbbs.ac.in 
 LinkedIn: https://www.linkedin.com/in/chanakyaekbote/
 
-# GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote" />
 </a>
 
 <!--
