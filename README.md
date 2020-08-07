@@ -2,8 +2,12 @@
 
 I am final year undergrad passionate about data science, machine learning and contributing to the open source community. I am currently working as a Google Summer of Code Developer under the CLoud Native Computing Foundation. You can learn more about my project [here](https://github.com/cekbote/coredns_ml_plugin).
 
-
-![Chanakya's github stats](https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cekbote" />
+</a>
 
 ### Connect with me :smile:
 
