@@ -13,7 +13,7 @@ I am final year undergrad, passionate about data science, machine learning and c
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true&hide_border=true" />
 </a>
 
-<img align="right" height="200" width="370" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="190" width="304" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
