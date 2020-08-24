@@ -9,11 +9,11 @@ I am final year undergrad, passionate about data science, machine learning and c
 <a href="https://www.linkedin.com/in/chanakyaekbote/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ca10@iitbbs.ac.in"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img align="right" height="200" width="320" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true&hide_border=true" />
 </a>
+
+<img align="right" height="100" width="100" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
