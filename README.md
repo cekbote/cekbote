@@ -1,4 +1,4 @@
-# Hi I'm Chanakya 👋
+# Hey, I'm Chanakya 👋
 
 I am final year undergrad, passionate about data science, machine learning and contributing to the open source community. I am currently working as a Google Summer of Code Developer under the Cloud Native Computing Foundation. You can learn more about my project [here](https://mlbridge.github.io/).
 
