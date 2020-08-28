@@ -1,6 +1,6 @@
 # Hey, I'm Chanakya 👋
 
-I am a final year undergrad, passionate about data science, machine learning and contributing to the open source community. I am currently working as a Google Summer of Code Sudent Developer to combine Machine Learning and Cybersecurity as a part of the Cloud Native Computing Foundation. You can learn more about my project [here](https://mlbridge.github.io/).
+I am a final year undergrad, passionate about data science, machine learning and contributing to the open source community. I am currently working as a Google Summer of Code Student Developer to combine Machine Learning and Cybersecurity as a part of the Cloud Native Computing Foundation. You can learn more about my project [here](https://mlbridge.github.io/).
 
 ## Connect with me :smile:
 
