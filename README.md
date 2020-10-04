@@ -1,4 +1,4 @@
-# Hey, I'm Chanakya 👋
+# Hey, I'm Chanakya :hi:
 
 I am a final year undergrad at IIT Bhubaneswar, passionate about data science, machine learning and contributing to open source. I worked as a Google Summer of Code Student Developer to combine Machine Learning and Cybersecurity as a part of the Cloud Native Computing Foundation. You can learn more about my project [here](https://mlbridge.github.io/).
 
