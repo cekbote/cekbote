@@ -11,7 +11,7 @@ I am a final year undergrad at IIT Bhubaneswar, passionate about machine learnin
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cekbote&show_icons=true&hide_border=true" />
 </a>
 
-<img align="right" height="185" width="296" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
+<img align="right" height="185" width="296" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 <!--
 <a href="https://github.com/anuraghazra/convoychat">
