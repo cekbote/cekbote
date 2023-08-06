@@ -8,8 +8,6 @@ When not staring at code, you can find me either on a basketball court, going fo
 
 P.S. I am on the lookout for Ph.D. / research positions, both in industry and academia.
 
-I am a final year undergrad at IIT Bhubaneswar, passionate about machine learning, data science, and contributing to open source. I worked as a Google Summer of Code Student Developer, during the summer of 2020, to combine Machine Learning and Cybersecurity as a part of the Cloud Native Computing Foundation (CNCF). You can learn more about my project [here](https://mlbridge.github.io/). I have also worked as a research intern at the Indian Institute of Science, Bangalore (in Reinforcement Learning).
-
 ## Connect with me :smile:
 
 <a href="https://www.linkedin.com/in/chanakyaekbote/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
